@@ -14,42 +14,49 @@
 
 ## 🛠️ Stack Tecnológico & Herramientas de Ingeniería
 
-### 💻 Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL_ANSI-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3_Tokens-1572B6?style=flat-square&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,nodejs,react,nextjs,tailwind,vite,opencv,pytorch,postgres,sqlite,supabase,docker,linux,git,github&perline=9" alt="Stack Principal de Owen Badel Hooker" />
+  </a>
+</p>
+
+### 💻 Lenguajes de Programación & Core
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,regex" alt="Lenguajes de Programación" />
+</a>
 
 ### ⚙️ Backend, APIs & Arquitectura
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js_Express-339933?style=flat-square&logo=node.js&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt5_/_PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Telegram](https://img.shields.io/badge/python--telegram--bot_v21-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![ReportLab](https://img.shields.io/badge/ReportLab_Platypus-DA291C?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,qt,bots" alt="Backend y Arquitectura" />
+</a>
+
+*Arquitectura Limpia Hexagonal / DDD • Pydantic v2 • python-telegram-bot v21 • ReportLab Platypus*
 
 ### 🎨 Frontend, Móvil & PWA
-![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA_Offline--First-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic_8_/_Capacitor-3880FF?style=flat-square&logo=ionic&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,angular" alt="Frontend y PWA" />
+</a>
+
+*React 19 • TailwindCSS v4 • PWA Offline-First • Ionic & Capacitor Android*
 
 ### 🤖 Inteligencia Artificial, Visión & Audio
-![MediaPipe](https://img.shields.io/badge/Google_MediaPipe_Pose-007FFF?style=flat-square&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV_Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Whisper](https://img.shields.io/badge/Faster--Whisper_CUDA-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini_Multimodal-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg_NVENC_Hardware-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn" alt="IA y Visión" />
+</a>
+
+*Google MediaPipe Pose (33 Landmarks) • Faster-Whisper CUDA • Google Gemini Multimodal • FFmpeg NVENC*
 
 ### 🗄️ Bases de Datos & Persistencia
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite_ACID-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![IndexedDB](https://img.shields.io/badge/IndexedDB_Local-FFA000?style=flat-square&logo=googlechrome&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,supabase,redis,mongodb" alt="Bases de Datos" />
+</a>
+
+*PostgreSQL • SQLite ACID • Supabase Realtime • IndexedDB Local Storage*
+
+### 🚀 DevOps, Cloud & Herramientas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,powershell,vscode,postman,figma" alt="DevOps y Herramientas" />
+</a>
 
 ---
 
